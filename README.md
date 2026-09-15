@@ -98,6 +98,7 @@ This repository tracks the evolution of **AI Slide & PowerPoint Agents**. Unlike
 - **[slidemason](https://github.com/erickittelson/slidemason)** — 100% local builder (zero API keys).
 - **[SlideAI](https://github.com/siddhesh-desai/SlideAI)** — Automatic PPT maker using OpenAI/Bing.
 - **[nooqta/ai-presentation](https://github.com/nooqta/ai-presentation)** — Markdown to Reveal.js via AI.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 
